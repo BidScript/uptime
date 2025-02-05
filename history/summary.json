@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.bidscript.co.uk.ico",
     "slug": "frontend-application",
     "status": "up",
-    "uptime": "1.56%",
-    "uptimeDay": "1.56%",
-    "uptimeWeek": "1.56%",
-    "uptimeMonth": "1.56%",
-    "uptimeYear": "1.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 382,
     "timeDay": 382,
     "timeWeek": 382,
     "timeMonth": 382,
     "timeYear": 382,
-    "dailyMinutesDown": {
-      "2025-02-05": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
