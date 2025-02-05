@@ -3,7 +3,7 @@ owner: bidscript           # Your GitHub organization or username, where this re
 repo: uptime       # The name of this repository
 
 sites:
-  - name: Frontend Application
+  - name: Tender Automation Platform
     url: https://app.bidscript.co.uk/app
 
   # # Uncomment and modify these examples if you have additional services to monitor:
@@ -16,7 +16,7 @@ status-website:
   # # Add your custom domain name or remove the `cname` line if you don't have one
   # cname: status.bidscript.co.uk
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # baseUrl: /status-monitor
+  baseUrl: /uptime
   logoUrl: https://www.bidscript.co.uk/app/assets/bidscript-white.svg   # Update with your own logo URL
   name: Bidscript Status
   introTitle: "**Bidscript Status** – Real-time Service Monitoring"
