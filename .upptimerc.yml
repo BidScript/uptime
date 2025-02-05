@@ -6,28 +6,6 @@ sites:
   - name: Tender Automation Platform
     url: https://app.bidscript.co.uk/app
 
-  # # Uncomment and modify these examples if you have additional services to monitor:
-  # - name: API Service
-  #   url: https://api.bidscript.co.uk
-  # - name: Tender Automation Platform
-  #   url: https://platform.bidscript.co.uk
-
 status-website:
-  # # Add your custom domain name or remove the `cname` line if you don't have one
-  # cname: status.bidscript.co.uk
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /uptime
-  # logoUrl: https://www.bidscript.co.uk/app/assets/bidscript-white.svg   # Update with your own logo URL
   name: Bidscript Status
-  introTitle: "**Bidscript Status** – Real-time Service Monitoring"
-  introMessage: >
-    This status page provides real-time updates for our applications and services.
-    Monitor our Frontend Application, API Service, and other critical systems effortlessly.
-  # navbar:
-  #   - title: Status
-  #     href: /
-  #   - title: GitHub
-  #     href: https://github.com/bidscript/status-monitor
-
-# Upptime also supports notifications, assigning issues, and more.
-# See https://upptime.js.org/docs/configuration
