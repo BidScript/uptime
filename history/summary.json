@@ -1,20 +1,20 @@
 [
   {
-    "name": "Frontend Application",
+    "name": "Tender Automation Platform",
     "url": "https://app.bidscript.co.uk/app",
     "icon": "https://icons.duckduckgo.com/ip3/app.bidscript.co.uk.ico",
-    "slug": "frontend-application",
+    "slug": "tender-automation-platform",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 382,
-    "timeWeek": 382,
-    "timeMonth": 382,
-    "timeYear": 382,
+    "time": 392,
+    "timeDay": 392,
+    "timeWeek": 392,
+    "timeMonth": 392,
+    "timeYear": 392,
     "dailyMinutesDown": {}
   }
 ]
